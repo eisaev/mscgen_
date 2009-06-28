@@ -1,3 +1,7 @@
+0.16: 28/06/2009
+      Fix segfault on malformed input, issue #10.
+       [Thanks Neils for reporting and providing a fix]
+
 0.15: 23/05/2009
       Escape special characters for SVG output.
       Better UTF8 support in SVG and PS output.
